@@ -1,0 +1,228 @@
+[13 Sep 2015, 05:39 am]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[13 Sep 2015, 06:43 am]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[13 Sep 2015, 06:44 am]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[13 Sep 2015, 06:51 am]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[16 Sep 2015, 17:20 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[16 Sep 2015, 17:58 pm]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[16 Sep 2015, 18:02 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[16 Sep 2015, 18:56 pm]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[16 Sep 2015, 19:13 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 13:29 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 14:17 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 14:24 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 14:25 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 14:26 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 14:26 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 14:26 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 14:30 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 14:31 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 14:33 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 14:35 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 14:35 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 14:35 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 14:38 pm]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 21:49 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 21:50 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 22:07 pm]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[17 Sep 2015, 22:09 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[18 Sep 2015, 20:21 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[19 Sep 2015, 09:46 am]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[19 Sep 2015, 10:12 am]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[19 Sep 2015, 10:51 am]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[27 Sep 2015, 16:15 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[27 Sep 2015, 16:29 pm]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[27 Sep 2015, 16:29 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[27 Sep 2015, 16:30 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[27 Sep 2015, 16:46 pm]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[27 Sep 2015, 21:36 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[27 Sep 2015, 21:49 pm]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[09 Oct 2015, 02:58 am]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[09 Oct 2015, 03:00 am]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[09 Oct 2015, 17:26 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[09 Oct 2015, 17:27 pm]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[09 Oct 2015, 17:27 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[09 Oct 2015, 18:37 pm]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[11 Oct 2015, 00:50 am]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[11 Oct 2015, 01:05 am]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[12 Oct 2015, 01:13 am]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[12 Oct 2015, 01:45 am]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[12 Oct 2015, 01:47 am]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[12 Oct 2015, 02:48 am]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[18 Oct 2015, 03:45 am]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[18 Oct 2015, 03:47 am]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[28 Jun 2017, 14:10 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 UBrowser/6.1.2909.1022 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[28 Jun 2017, 14:26 pm]-> LOGOUT Through Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 UBrowser/6.1.2909.1022 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[09 Oct 2017, 14:24 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 UBrowser/7.0.6.1618 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[09 Oct 2017, 14:25 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 UBrowser/7.0.6.1618 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[09 Oct 2017, 15:41 pm]-> LOGOUT Through Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 UBrowser/7.0.6.1618 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
