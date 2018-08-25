@@ -226,3 +226,15 @@
 
 		----------------------------------------------------------------------------------
 		
+[21 Aug 2018, 12:37 pm]->createaccount@cliqs.com LOGGED IN Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/7.0.185.1002 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[21 Aug 2018, 12:39 pm]->createaccount@cliqs.com REGISTERED A MEMBER Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/7.0.185.1002 Safari/537.36 On Akeep-alive Connection
+
+		----------------------------------------------------------------------------------
+		
+[21 Aug 2018, 16:20 pm]-> LOGOUT Through Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/7.0.185.1002 Safari/537.36 On A keep-alive Connection
+
+		----------------------------------------------------------------------------------
+		

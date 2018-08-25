@@ -64,6 +64,9 @@ function clearText(field)
     <div id="templatemo_menu">
         <ul>
             <li><a href="cpanel.php" class="current">Home</a></li>
+            <li><a href="addhouse.php">Add Building</a></li>
+            <li><a href="bds.php">Building</a></li>
+            <li><a href="diary.php">Mark Visitation</a></li>
             <li><a href="lgt.php">Logout</a></li>
         </ul>    	
     </div> <!-- end of menu -->
@@ -87,19 +90,21 @@ function clearText(field)
 
 
 
-    <center><table cellspacing="40">
-    
-    <tr>
-    
-    		<td><a href="addhouse.php" target="_blank" title="Add new Building"><img src="../images/ico.png" height="70px" width="auto"></a></td>
+    <center>
+        <div style="display: flex;  justify-content: center;">
+
+    		<div style="width: 500px;">
+
+                <div style="padding: 4px; width: 20%; display: inline-block; position: relative;"><a href="addhouse.php" title="Add new Building"><img src="../images/ico.png" height="70px" width="auto"></a><br><i>Add new Building</i></div>
             
-            <td><a href="bds.php" target="_blank" title="Buildings"><img src="../images/listing8.png" height="70px" width="auto"></a></td>
+                <div style="padding: 4px; width: 20%; display: inline-block; position: relative;"><a href="bds.php" title="Buildings"><img src="../images/listing8.png" height="70px" width="auto"></a><br><i>Open Building</i></div>
             
-            <td><a href="diary.php" target="_blank" title="Mark Visitation"><img src="../images/allocated.png" height="70px" width="auto"></a></td>
+                <div style="padding: 4px; width: 20%; display: inline-block; position: relative;"><a href="diary.php" title="Mark Visitation"><img src="../images/allocated.png" height="70px" width="auto"></a><br><i>Mark Visitation</i></div>
             
-             </tr>
+            </div>
+        </div>    
     
-    </table></center>
+    </center>
 
 
 
@@ -118,26 +123,8 @@ function clearText(field)
             
             <div id="column_w290">
             
-            	<div class="header_02">FAQ's</div>
+            	
                 
-                	<div class="news_section">
-                    	
-                      <div class="news_content">
-                        	<div class="header_05"><a href="#">Lorem ipsum dolor sit</a></div>
-                            <p style="font-size:14px;">Lorem ipsum dolor sit amet, cons ect etur adipiscing elit. Vestibu lum ac dui non tellus auctor.</p>
-                        </div>
-                        
-                        <div class="cleaner"></div>
-                    </div>
-                    
-                    <div class="news_section">
-                      <div class="news_content">
-                   	    <div class="header_05"><a href="#">Nam dictum pellentesque</a></div>
-                            <p>Nam ultricies cursus enim, non aliquet orci lacinia ac. Etiam lobortis adipiscing convallis. </p>
-                        </div>
-                        
-                        <div class="cleaner"></div>
-                    </div>
         </div> <!-- end of column 290 -->
             
             <div class="cleaner"></div>
@@ -153,7 +140,7 @@ function clearText(field)
 
 	<div id="templatemo_footer">
 	  <div class="section_w920">
-        2015 Waste Management System, realcliqs.com
+        2015 Waste Management System
         </div>
         <div class="cleaner"></div>
     </div> <!-- end of footer -->

@@ -62,8 +62,11 @@ function clearText(field)
     
     <div id="templatemo_menu">
         <ul>
-            <li><a href="../u0" class="current">Home</a></li>
-            <li><a onclick="window.close()">Close</a></li>
+            <li><a href="cpanel.php">Home</a></li>
+            <li><a href="addhouse.php" class="current">Add Building</a></li>
+            <li><a href="bds.php">Building</a></li>
+            <li><a href="diary.php">Mark Visitation</a></li>
+            <li><a href="lgt.php">Logout</a></li>
         </ul>    	
     </div> <!-- end of menu -->
 </div> <!-- end of menu wrapper -->
@@ -115,8 +118,7 @@ function clearText(field)
                 	<div class="news_section">
                 	  <div class="news_content">
                    	    <div class="header_05"><a href="#"></a></div>
-                            <p style="font-size:15px; padding:3px; font-family:amble; color:navy;">cliqsapp@gmail.com</p>
-                            <p style="font-size:15px; padding:3px; font-family:amble; color:navy;">+234 8107926083</p>
+                            <p style="font-size:15px; padding:3px; font-family:amble; color:navy;">akinsamuel33@gmail.com</p>
                         </div>
                         
                         <div class="cleaner"></div>
@@ -136,7 +138,7 @@ function clearText(field)
 
 	<div id="templatemo_footer">
 	  <div class="section_w920">
-        2015 Waste Management System, realcliqs.com
+        2015 Waste Management System
         </div>
         <div class="cleaner"></div>
     </div> <!-- end of footer -->

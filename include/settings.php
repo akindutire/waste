@@ -1,15 +1,15 @@
 <?php
 session_name('cliqs345');
-$project='cphp/waste';
+$project='';
 session_save_path($_SERVER['DOCUMENT_ROOT']."/$project/include/session");
 session_start();
 ini_set('expose_php','off');
 define('LIVE',error_reporting(0));
 $Y=date('Y',time());
 ///////////////////////////CONSTANTS////////////////////////////////////////////////////
-define('E','The E-Library');
+define('E','The Waste');
 define('L','../images/logo.png');
-define("F","The E-Library $Y, realcliqs.com");
+define("F","The Waste $Y, zilnet.com");
 //////////////////////////////ABOUT ME////////////////////////////////////////////////////////////
 /*ABOUT THE DEVELOPER 	
  I AM AKINDUTIRE AYOMIDE SAMUEL, I AM PASSIONATE ABOUT CODING, I BUILT 

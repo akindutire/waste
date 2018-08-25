@@ -62,7 +62,7 @@ function clearText(field)
     
     <div id="templatemo_menu">
         <ul>
-            <li><a href="../u0" class="current">Home</a></li>
+            <li><a href="../u0/cpanel.php" class="current">Home</a></li>
             <li></li>
         </ul>    	
     </div> <!-- end of menu -->
@@ -72,42 +72,7 @@ function clearText(field)
 
     <div id="templatemo_content">
     
-    	<div class="recent_projects">
-        
-        	<div class="project_slideshow">
-            
-
-            <div id="one" class="contentslider">
-                <div class="cs_wrapper">
-                    <div class="cs_slider">
-                    
-  
-                        <div class="cs_article">
-   
-                           <a href="#">
-                            <img src="../images/templatemo_image_01.jpg" alt="Screenshot 1" />
-                            </a>
-                        </div><!-- End cs_article -->
-                        
-                        
-   
-                    </div><!-- End cs_slider -->
-                </div><!-- End cs_wrapper -->
-            </div><!-- End contentslider -->
-             <!-- Site JavaScript -->
-        
-          </div>
-            
-            <div class="project_content">
-            
-            	<div class="header_03">Welcome Guest</div>
-                
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac dui non tellus auctor convallis. Cras facilisis venenatis fermentum.</p>
-                
-            
-            </div>
-            
-        </div>
+    	
         
         <div id="content_panel">
         	
@@ -137,20 +102,7 @@ function clearText(field)
                
           </div> <!-- end of column w610 -->
             
-            <div id="column_w290">
             
-            	<div class="header_02">Contact</div>
-                
-                	<div class="news_section">
-                	  <div class="news_content">
-                   	    <div class="header_05"><a href="#"></a></div>
-                            <p style="font-size:15px; padding:3px; font-family:amble; color:navy;">cliqsapp@gmail.com</p>
-                            <p style="font-size:15px; padding:3px; font-family:amble; color:navy;">+234 8107926083</p>
-                        </div>
-                        
-                        <div class="cleaner"></div>
-                    </div>
-            </div> <!-- end of column 290 -->
             
             <div class="cleaner"></div>
             
@@ -165,7 +117,7 @@ function clearText(field)
 
 	<div id="templatemo_footer">
 	  <div class="section_w920">
-        2015 Waste Management System, realcliqs.com
+        2015 Waste Management System
         </div>
         <div class="cleaner"></div>
     </div> <!-- end of footer -->
